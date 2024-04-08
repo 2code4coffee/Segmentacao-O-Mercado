@@ -26,6 +26,7 @@ ________________________________________________________________________________
 - Processamento, preparação dos dados 
 - Analise exploratória
 - Análise RFM e apresentação dos dados
+  
 Detalhamento do processo em: Ficha técnica https://github.com/2code4coffee/Segmentacao-para-O-Mercado/blob/main/ficha_tecnica.md
 __________________________________________________________________________________________________________________________________________________________________________________________
 
