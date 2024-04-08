@@ -15,9 +15,10 @@ Projeto individual de Thaise Oliveira.
 _________________________________________________________________________________________________________________________________________
 
 Ferramentas e Tecnologias:
-ferramentas de visualização: google sheets, notion, google slides.
-ferramentas de comunicação: loom, github
-tecnologias: chat gpt https://chat.openai.com/
+Ferramentas de dados: google sheets, google drive
+Ferramentas de visualização: google sheets, notion, google slides.
+Ferramentas de comunicação: loom, github
+Tecnologias: chat gpt https://chat.openai.com/
 _________________________________________________________________________________________________________________________________________
 
 Processamento, preparação dos dados: 
@@ -50,6 +51,7 @@ imaculadas e copias de teste da planilha.
 Realizar mais testes de formula em planilhas testes para não arriscar os dados a planilha original.
 _________________________________________________________________________________________________________________________________________
 Links de interesse:
-Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google 
+Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google
+Fonte de dados: https://drive.google.com/drive/folders/1ScPgRiUxdDVXZZARTZW6GjJS7kU2zsSL
 Segmentação RFM usada: [RFM para conhecer seus clientes: o que é e como aplicar](https://mateusguerra.com.br/rfm-para-conhecer-seus-clientes/#segmentos) | Mateus Guerra 
 Como fazer a pontuação por quartil:[ A análise RFM para segmentação de clientes](https://vidadeproduto.com.br/analise-rfm/#Pontuacao_por_Quartil) | Vida de Produto
