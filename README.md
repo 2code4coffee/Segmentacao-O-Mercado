@@ -18,7 +18,7 @@ ________________________________________________________________________________
 - Ferramentas e Tecnologias:
 
 ferramentas de visualização: google sheets, google slides, notion.
-ferramentas de comunicação: zoom, loom, github.
+ferramentas de comunicação: loom, github.
 tecnologias: chat gpt https://chat.openai.com/
 __________________________________________________________________________________________________________________________________________________________________________________________
 
