@@ -30,13 +30,6 @@ ________________________________________________________________________________
 Detalhamento do processo em: Ficha técnica https://github.com/2code4coffee/Segmentacao-para-O-Mercado/blob/main/ficha_tecnica.md
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-
-Imagem do painel de controle em Google Sheets:
-
-![image](https://github.com/2code4coffee/Segmentacao-para-O-Mercado/assets/163322491/b713beed-99ac-4659-b555-5c1d92cfac41)
-
-__________________________________________________________________________________________________________________________________________________________________________________________
-
 - Links de interesse:
 
 Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google 
