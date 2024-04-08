@@ -1,0 +1,76 @@
+UNIAO E TRATAMENTO DE DADOS:
+
+=QUERY(clientes_copia!A1:I2242;"SELECT * WHERE NOT (A IS NULL OR B IS NULL OR C IS NULL OR D IS NULL OR E IS NULL OR F IS NULL OR G IS NULL OR H IS NULL OR I IS NULL)")
+
+=QUERY(transacoes_copia!A1:D22129;"SELECT * WHERE NOT (A IS NULL OR B IS NULL OR C IS NULL OR D IS NULL)")
+
+=QUERY(resumo_compras_copia!A1:G2251;"SELECT * WHERE NOT (A IS NULL OR B IS NULL OR C IS NULL OR D IS NULL)")
+
+=(UNIQUE(B2:B22121))
+
+=MÁXIMO(FILTER($C2:$C;$B2:$B=E3))
+
+=CONT.SES(B:B;E2;D:D;"tienda")
+
+=CONT.SES(B:B;E2;D:D;"en línea")
+
+=SE(S2<=30;"jovem";SE(S2<=60;"adulto";SE(S2>=61;"idoso")))
+
+=SE(E2<=10000;"baixo";SE(E2<=50000;"medio";SE(E2>50000;"alto")))
+
+=SOMA(M2;N2;O2;P2;Q2;R2)
+
+=DAYS("2024-01-01";J2)
+
+=CONT.SE(transacoes!B:B;A2)
+
+Vários =PROCV e formulas simples como soma e media.
+__________________________________________________________________________________________________________________________________________
+
+QUARTIL E SEGMENTAÇÃO:
+
+=QUARTIL(unificada!X:X; 0) =QUARTIL(unificada!X:X; 1) =QUARTIL(unificada!X:X; 2) =QUARTIL(unificada!X:X; 3) =QUARTIL(unificada!X:X; 4)
+=QUARTIL(unificada!Y:Y; 0) =QUARTIL(unificada!Y:Y; 1) =QUARTIL(unificada!Y:Y; 2) =QUARTIL(unificada!Y:Y; 3) =QUARTIL(unificada!Y:Y; 4)
+=QUARTIL(unificada!W:W; 0) =QUARTIL(unificada!W:W; 1) =QUARTIL(unificada!W:W; 2) =QUARTIL(unificada!W:W; 3) =QUARTIL(unificada!W:W; 4)
+
+RECENCIA
+=IFS(
+    X2<=418; 4;
+    X2<=498; 3;
+    X2<=605; 2;
+    X2<=1245; 1
+)
+
+FREQUENCIA
+=IFS(
+    Y2<=5; 1;
+    Y2<=10; 2;
+    Y2<=14; 3;
+    Y2<=27; 4
+)
+
+VALOR
+=IFS(
+    W2<=71; 1;
+    W2<=405; 2;
+    W2<=1053; 3;
+    W2<=2525; 4
+    
+)
+
+SEGMENTACAO:
+
+=IFS(
+    E(AA2>=4;AC2>=3); "campeões";
+    E(AA2>=3;AC2>=4); "fiéis";
+    E(AA2>=3;AC2>=2;AC2<=3); "com potencial";
+    E(AA2>=4;AC2=1); "recentes";
+    E(AA2>=3;AC2>=1); "promissor";
+    E(AA2>=2;AC2>=3); "precisam de atenção";
+    E(AA2>=2;AC2>=2); "prestes a hibernar";
+    E(AA2>=2;AC2>=1); "em risco";
+    E(AA2>=1;AC2>=3); "não pode perder";
+    E(AA2>=1;AC2>=2); "hibernando";
+    E(AA2=1;AC2>=1); "perdido";
+    VERDADEIRO; "Outro caso"
+)
