@@ -1,4 +1,5 @@
-Segmentacao-para-O-Mercado
+O Mercado: Segmentação RFM
+
 Ficha Técnica: Projeto de Análise de Dados para Segmentação RFM.
 _________________________________________________________________________________________________________________________________________
 
@@ -38,9 +39,12 @@ Análise RFM e apresentação dos dados :
 _________________________________________________________________________________________________________________________________________
 
 Resultados e Conclusões:
-Apresenta os principais resultados obtidos a partir da análise de dados.
-Sumarize as conclusões tiradas do projeto, incluindo insights importantes,
-descobertas relevantes e possíveis recomendações.
+Com a segmentação feita vemos que a fidelidade é realmente o maior problema mas em contrapartida os clientes com potencial para serem fidelizados esta no topo do escopo. 
+Considerando as analises anteriores somadas a essa sugiro como foco para o público adulto e idoso:
+Ofereça um programa de fidelidade com os melhores produtos como premiação e recomende outros bons produtos, aos promissores, aproxime-o da marca oferecendo testes gratuitos, por exemplo, de produtos infantis para os que têm filhos. Premie os campeões e ofereça vinhos e queijo de maior valor para os fiéis mais idosos avaliarem e engajarem pois eles têm maiores salários.
+Clientes que precisam de atenção e que não podem perder são sobretudo jovens e adultos:
+Reative-os, ofereça aos jovens ofertas limitadas em produtos semelhantes aos que foram comprados anteriormente ou oferecendo novos produtos parecidos, é bom construir um relacionamento que gere valor rapidamente, apesar de serem a minoria os jovens têm melhores salários que os adultos e indicam para outros jovens promissores.
+
 _________________________________________________________________________________________________________________________________________
 Limitações/Próximos Passos:
 Dificuldade sobre a forma mais eficiente e limpa de unificar as tabelas e ter um maior entendimento dos dados. 
