@@ -2,7 +2,7 @@ Projeto de Análise de Dados para Segmentação RFM.
 
 - Resumo do projeto: 
 
-Análise de dados de uma loja especializada em produtos alimentícios importados chamada “O Mercado”. Esta loja enfrenta dificuldades de adaptação às novas preferências dos seus clientes e não tem uma estratégia eficaz para segmentar a sua base de clientes. Isto levou a uma perda de oportunidades de vendas e a um investimento ineficiente em marketing. Para a empresa, é fundamental abordar esses desafios para alcançar o crescimento sustentável, maximizar a lucratividade e identificar onde investir esforço.
+Análise de dados de uma loja especializada em produtos alimentícios importados chamada “O Mercado”. Esta loja enfrenta problemas de fidelização e dificuldades de adaptação às novas preferências dos seus clientes por não tem uma estratégia eficaz para segmenta-los. Isto levou a uma perda de oportunidades de vendas e a um investimento ineficiente em marketing. Para a empresa, é fundamental abordar esses desafios para alcançar o crescimento sustentável, maximizar a lucratividade e identificar onde investir esforço para estrategias de marketing e retenção.
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 - Objetivo:
