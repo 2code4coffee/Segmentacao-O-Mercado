@@ -35,7 +35,7 @@ ferramentas de comunicação: loom, github.
 tecnologias: chat gpt https://chat.openai.com/
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-- ## **Passos do projeto**
+- ## **Passos do projeto e Ficha técnica**
 - Passos da análise:
 - Processamento, preparação dos dados 
 - Analise exploratória
