@@ -49,9 +49,10 @@ ________________________________________________________________________________
 Limitações/Próximos Passos:
 Dificuldade sobre a forma mais eficiente e limpa de unificar as tabelas e ter um maior entendimento dos dados. 
 Lentidão e travamento da planilha chegando a demorar 2hrs para me retornar o valor de uma formula simples. 
-Exclusão de dados essenciais não recuperáveis por meio de histórico do arquivo. Dificuldade para formular valores para segmentação por quartil e fazer a formula funcionar corretamente nos dados.
-Soluções: Estudar melhor forma de unificar a tabela antes de prosseguir com o projeto pois pode ser necessário exclusão de dados durante o processo. Otimização de softwares, hardwares, navegador e na própria planilha para que não haja lentidão no processo. Fazer copias
-imaculadas e copias de teste da planilha. 
+Exclusão de dados essenciais não recuperáveis por meio de histórico do arquivo. 
+Dificuldade para formular valores para segmentação por quartil e fazer a formula funcionar corretamente nos dados.
+
+Soluções: Estudar melhor forma de unificar a tabela antes de prosseguir com o projeto pois pode ser necessário exclusão de dados durante o processo. Otimização de softwares, hardwares, navegador e na própria planilha para que não haja lentidão no processo. Fazer copias imaculadas e copias de teste da planilha. 
 Realizar mais testes de formula em planilhas testes para não arriscar os dados a planilha original.
 _________________________________________________________________________________________________________________________________________
 Links de interesse:
