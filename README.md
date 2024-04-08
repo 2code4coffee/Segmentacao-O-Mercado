@@ -1,4 +1,4 @@
-	Projeto de Análise de Dados para Segmentação RFM.
+O Mercado : Projeto de Análise de Dados para Segmentação RFM.
 
 - Resumo do projeto: 
 
@@ -22,7 +22,7 @@ ferramentas de visualização: google sheets, google slides, notion.
 ferramentas de comunicação: loom, github.
 
 tecnologias: chat gpt https://chat.openai.com/
-__________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 - Passos da análise:
 - Processamento, preparação dos dados 
@@ -34,8 +34,12 @@ ________________________________________________________________________________
 
 - Links de interesse:
 
-Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google 
-
+Do projeto: 
+Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google
+Apresentação loom
+Slide
+ 
+Referências:
 Segmentação RFM usada: [RFM para conhecer seus clientes: o que é e como aplicar](https://mateusguerra.com.br/rfm-para-conhecer-seus-clientes/#segmentos) | Mateus Guerra 
 
 Como fazer a pontuação por quartil:[ A análise RFM para segmentação de clientes](https://vidadeproduto.com.br/analise-rfm/#Pontuacao_por_Quartil) | Vida de Produto
