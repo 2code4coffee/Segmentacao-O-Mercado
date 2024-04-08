@@ -1,21 +1,32 @@
-O Mercado : Projeto de Análise de Dados para Segmentação RFM.
+## **Índice**
+- [***Resumo do projeto***](#Resumo-do-projeto)
+- [***Objetivo***](#Objetivo)
+- [***Equipe***](#Equipe)
+- [***Ferramentas e Tecnologias***](#Ferramentas-e-Tecnologias)
+- [***Passos do projeto***](#Passo-do-projeto)
+- [***Links de interesse***](#Links-de-interesse)
+  
+_________________________________________________________________________________________________________________________________________________________________________________________
 
-- Resumo do projeto: 
+
+# **O Mercado : Projeto de Análise de Dados para Segmentação RFM**
+
+- ## **Resumo do projeto** 
 
 Análise de dados de uma loja especializada em produtos alimentícios importados chamada “O Mercado”. Esta loja enfrenta problemas de fidelização e dificuldades de adaptação às novas preferências dos seus clientes por não tem uma estratégia eficaz para segmenta-los. Isto levou a uma perda de oportunidades de vendas e a um investimento ineficiente em marketing. Para a empresa, é fundamental abordar esses desafios para alcançar o crescimento sustentável, maximizar a lucratividade e identificar onde investir esforço para estrategias de marketing e retenção.
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-- Objetivo:
+- ## **Objetivo**
 
 Preparar a base de dados disponibilizada pela empresa, aplicar a segmentação de clientes através do RFM, compreender o resultado da segmentação (em quais grupos a empresa pode concentrar esforços e/ou traçar estratégias de fidelização),  tirar conclusões que permitam à empresa tomar decisões, além de buscar informações importantes que estão ocultas nos dados.
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-- Equipe:
+- ## **Equipe**
 
 Projeto individual de Thaise Oliveira.
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-- Ferramentas e Tecnologias:
+- ## **Ferramentas e Tecnologias**
 
 ferramentas de visualização: google sheets, google slides, notion.
 
@@ -24,15 +35,16 @@ ferramentas de comunicação: loom, github.
 tecnologias: chat gpt https://chat.openai.com/
 _________________________________________________________________________________________________________________________________________________________________________________________
 
+- ## **Passos do projeto**
 - Passos da análise:
 - Processamento, preparação dos dados 
 - Analise exploratória
 - Análise RFM e apresentação dos dados
   
-Detalhamento do processo em: Ficha técnica https://github.com/2code4coffee/Segmentacao-para-O-Mercado/blob/main/ficha_tecnica.md
+Detalhamento do processo em: ## **Ficha técnica** https://github.com/2code4coffee/Segmentacao-para-O-Mercado/blob/main/ficha_tecnica.md
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-- Links de interesse:
+- ## **Links de interesse**
 
 Do projeto:
 
