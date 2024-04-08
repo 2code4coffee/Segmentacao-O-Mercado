@@ -18,7 +18,9 @@ ________________________________________________________________________________
 - Ferramentas e Tecnologias:
 
 ferramentas de visualização: google sheets, google slides, notion.
+
 ferramentas de comunicação: loom, github.
+
 tecnologias: chat gpt https://chat.openai.com/
 __________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -37,3 +39,5 @@ Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30
 Segmentação RFM usada: [RFM para conhecer seus clientes: o que é e como aplicar](https://mateusguerra.com.br/rfm-para-conhecer-seus-clientes/#segmentos) | Mateus Guerra 
 
 Como fazer a pontuação por quartil:[ A análise RFM para segmentação de clientes](https://vidadeproduto.com.br/analise-rfm/#Pontuacao_por_Quartil) | Vida de Produto
+
+Banco de imagens sem copyright: https://br.freepik.com/ | Freepik
