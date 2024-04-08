@@ -3,7 +3,7 @@
 - [***Objetivo***](#Objetivo)
 - [***Equipe***](#Equipe)
 - [***Ferramentas e Tecnologias***](#Ferramentas-e-Tecnologias)
-- [***Passos do projeto***](#Passo-do-projeto)
+- [***Passos do projeto e Ficha técnica***](#Passo-do-projeto)
 - [***Links de interesse***](#Links-de-interesse)
   
 _________________________________________________________________________________________________________________________________________________________________________________________
