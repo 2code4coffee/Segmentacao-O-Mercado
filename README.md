@@ -36,8 +36,8 @@ ________________________________________________________________________________
 
 Do projeto: 
 Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google
-Apresentação loom
-Slide
+Apresentação dos resultados no loom: https://www.loom.com/share/205e5afe458748bf820fbe3134c54245?sid=7403dfa8-186c-47aa-9ed1-c066a5cfa494
+Slide no goole slides: https://docs.google.com/presentation/d/1gIEHkyVmPFtpiVNKJCDIzd3pozC_lgsog0uLfVZNjTg/edit?usp=sharing
  
 Referências:
 Segmentação RFM usada: [RFM para conhecer seus clientes: o que é e como aplicar](https://mateusguerra.com.br/rfm-para-conhecer-seus-clientes/#segmentos) | Mateus Guerra 
