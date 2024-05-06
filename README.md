@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 - ## **Links de interesse**
 
-Do projeto:
+Apresentação:
 
 Planilha: [proj-1_thai_o-mercado](https://docs.google.com/spreadsheets/d/1FgHo30Yu-r-k_8_hDgnPQPx4jH0O1PM9WiUEjgwRleU/edit?usp=sharing) - Planilhas Google
 
