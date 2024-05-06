@@ -13,12 +13,12 @@ ________________________________________________________________________________
 
 - ## **Resumo do projeto** 
 
-Análise de dados de uma loja especializada em produtos alimentícios importados chamada “O Mercado”. Esta loja enfrenta problemas de fidelização e dificuldades de adaptação às novas preferências dos seus clientes por não tem uma estratégia eficaz para segmenta-los. Isto levou a uma perda de oportunidades de vendas e a um investimento ineficiente em marketing. Para a empresa, é fundamental abordar esses desafios para alcançar o crescimento sustentável, maximizar a lucratividade e identificar onde investir esforço para estrategias de marketing e retenção.
+Análise de dados de uma loja especializada em produtos alimentícios importados chamada “O Mercado”. Esta loja enfrenta problemas de fidelização e dificuldades de adaptação às novas preferências dos seus clientes por não tem uma estratégia eficaz para segmenta-los. 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 - ## **Objetivo**
 
-Preparar a base de dados disponibilizada pela empresa, aplicar a segmentação de clientes através do RFM, compreender o resultado da segmentação (em quais grupos a empresa pode concentrar esforços e/ou traçar estratégias de fidelização),  tirar conclusões que permitam à empresa tomar decisões, além de buscar informações importantes que estão ocultas nos dados.
+Preparar a base de dados disponibilizada pela empresa, aplicar a segmentação de clientes através do RFM, compreender o resultado da segmentação (em quais grupos a empresa pode concentrar esforços e/ou traçar estratégias de fidelização),  tirar conclusões que permitam à empresa tomar decisões.
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 - ## **Equipe**
@@ -36,12 +36,10 @@ tecnologias: chat gpt https://chat.openai.com/
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 - ## **Passos do projeto e Ficha técnica**
-- Passos da análise:
 - Processamento, preparação dos dados 
 - Analise exploratória
 - Análise RFM e apresentação dos dados
-  
-Detalhamento do processo em:  **Ficha técnica** https://github.com/2code4coffee/Segmentacao-para-O-Mercado/blob/main/ficha_tecnica.md
+  Em: **Ficha técnica Notion** (https://unruly-whale-fb1.notion.site/P1-Segmenta-o-O-Mercado-bff87302fc49448b9d96c3010e42a865?pvs=25)
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 - ## **Links de interesse**
