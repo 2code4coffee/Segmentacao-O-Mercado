@@ -37,9 +37,9 @@ ________________________________________________________________________________
 
 - ## **Passos do projeto e Ficha técnica**
 - Processamento, preparação dos dados 
-- Analise exploratória
+- Análise exploratória
 - Análise RFM e apresentação dos dados
-  Em: **Ficha técnica Notion** (https://unruly-whale-fb1.notion.site/P1-Segmenta-o-O-Mercado-bff87302fc49448b9d96c3010e42a865?pvs=25)
+  Em: **Ficha técnica Notion** (https://2code4coffee.notion.site/P1-Segmenta-o-O-Mercado-bff87302fc49448b9d96c3010e42a865?pvs=73)
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 - ## **Links de interesse**
